@@ -39,4 +39,4 @@ jobs:
           app-name: 'EmailProvider-newsilicon-jsb'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C30305E2CD2A4A7A8E37CBDE72B3953E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE7FD0881F45424BA8892480F961DFEA }}

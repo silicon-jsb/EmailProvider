@@ -35,5 +35,5 @@ public class EmailSender(ILogger<EmailSender> logger, IEmailService emailService
         }
 
     }
-
+    
 }
